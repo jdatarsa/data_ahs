@@ -24,3 +24,8 @@ Information pertaining to AHS outbreaks and control in South Africa.
   * In the case of _vpsoq_ca_ movements the full process including all three associated holdings is included in *data_2019movements.csv* 
   
   * All information regarding equine movements in South Africa can be obtained at [here](https://www.myhorse.org.za/ahsvpn/)
+
+# Associated spatial data  
+Associated spatial data relating to this repository is stored in the _/gis_ folder. Unless otherwise indicated all files are shapefiles with a CRS of 4326.  
+  * _distrmun_ District municipalities of South Africa. Equine census data is aggregated to this level
+  * _lm_ Local municipalities (2011) of South Africa. Movements and AHS case data are aggregated at this level. Where census data is required we recommend aggregating both case and movement data up to the district municipality level.
