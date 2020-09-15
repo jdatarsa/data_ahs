@@ -1,5 +1,5 @@
 # African horse sickness outbreak data  
-https://zenodo.org/badge/latestdoi/290019559  
+[![DOI](https://zenodo.org/badge/295426173.svg)](https://zenodo.org/badge/latestdoi/295426173)  
 Information pertaining to AHS outbreaks in South Africa.
 
 ## Outbreak case and herd level data for outbreaks in the AHS controlled area of South Africa 
