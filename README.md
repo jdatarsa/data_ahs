@@ -7,7 +7,7 @@ Information pertaining to AHS outbreaks and control in South Africa.
 *references_data_outbreaks_ca.csv* are the relevant references for said data, doi's have been included where available  
 
 ## Movement data for analysis of 2019 movement patterns within South Africa  
-*data_2019movements.csv* contains all movements associated with the AHS controlled area (CA) and Infected zone (IZ) where the origin of movement occurs in the IZ  
+*data_2019movements.csv* contains all movements associated with the AHS controlled area (CA) and Infected zone (IZ) where the origin of movement occurs in the IZ and for the 2019 calendar year. 
   * _mid_ refers to the unique identifier for that movement
   * _lmgid_ refers to the unique identifier of the local municipality that the movement occurred from
   * _dmgid_ refers to the unique identifier of the district municipality that the movement occurred from
