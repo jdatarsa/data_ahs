@@ -25,6 +25,10 @@ Information pertaining to AHS outbreaks and control in South Africa.
   
   * All information regarding equine movements in South Africa can be obtained at [here](https://www.myhorse.org.za/ahsvpn/)
 
+# AHS case data for 2019 based on the ECOD disease reporting system in South Africa
+*data_2019cases_ecod.csv* contains monthly aggregated case totals from 2019 for AHS cases as reported on the Equien Cause of Disease (ECOD) system which is a private veterinary association reporting system. Data is primarily based on laboratory reports and a review of the AHS case reporting for 2019 can be found [here](http://jdata.co.za/myhorse/documents/infographics/Reports/2019%20General%20AHS%20surveillance%20and%20testing%20report.pdf), while the ECOD system is available through the disease reporting links on the SAEVA [website](www.saeva.co.za).  
+The dataset includes the unique identifiers for the local municiaplity (_lmgid_) and district municipality ( _dmgid_) within which the cases occurred which will assist in linking up this dataset with the *data_2019movements.csv* and spatial datasets. 
+
 # Associated spatial data  
 Associated spatial data relating to this repository is stored in the _/gis_ folder. Unless otherwise indicated all files are shapefiles with a CRS of 4326.  
   * _distrmun_ District municipalities of South Africa. Equine census data is aggregated to this level
